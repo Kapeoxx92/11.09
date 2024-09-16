@@ -1,0 +1,47 @@
+body {
+    background-color: #e0f7fa;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+#container {
+    display: flex;
+    flex-direction: column;
+}
+
+#baner {
+    height: 200px;
+    background-color: rgb(66, 155, 155)
+}
+
+#menu {
+    background-color: rgb(16, 85, 76);
+    width: 100%;
+    height: 70px;
+}
+
+#blok {
+    background-color: #e0f7fa
+}
+
+#lewy {
+
+}
+
+#srodek {
+
+}
+
+#prawy {
+
+}
+
+footer {
+    background-color: rgb(16, 85, 76);
+    height: 30px;
+    padding-top: 15px;
+    text-align: right;
+    padding-right: 10px;
+}
